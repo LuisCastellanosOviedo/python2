@@ -24,8 +24,8 @@ for product_row in range(2, product_list.max_row + 1):
 
 
     # Calculation total value of inventory per supplier
-    if supplier_name in 
-    total_value_per_supplier.[supplier_name] = inventory * price
+   # if supplier_name in
+   # total_value_per_supplier.[supplier_name] = inventory * price
 
 print(f" final dictionary ======>>>> {products_per_supplier}")
 
