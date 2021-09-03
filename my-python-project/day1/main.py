@@ -33,6 +33,12 @@ b = c
 print(f"a: {a} and b: {b}")
 
 
+#var naming
+
+username = "Joe"
+user_name = "Joe Joe"
+
+
 
 
 
