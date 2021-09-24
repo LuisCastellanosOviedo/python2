@@ -14,3 +14,13 @@ def greet_with_name(name):
 
 greet_with_name("Luis")
 greet_with_name(35)
+
+print("More than one parameter ")
+
+
+def greet_with(name, location):
+    print(f"hello {name} what is it like in {location}")
+
+
+greet_with("tony stark", "new york")
+greet_with(location="London", name="Luis")
